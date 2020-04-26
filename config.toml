@@ -1,4 +1,12 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "pl-PL"
 title = "Herbarium"
+theme = "kube"
+description = "My personal herbarium site"
+pluralizelisttitles = false
+Paginate = 4
 
+[[menu.main]]
+    name = "katalog"
+    weight = -100
+    url = "/katalog/"
