@@ -22,4 +22,5 @@ fields:
   name: toc
   label: toc
 pages:
+- content/katalog/pomidor-zwyczajny.md
 - content/katalog/tulipan.md
