@@ -2,7 +2,6 @@
 bref = "Tulipa"
 date = ""
 description = "Tulipa"
-draft = true
 title = "Tulipan"
 toc = false
 weight = 20
