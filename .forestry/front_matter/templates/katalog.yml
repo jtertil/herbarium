@@ -1,0 +1,22 @@
+---
+label: katalog
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: bref
+  label: bref
+- type: boolean
+  name: toc
+  label: toc
