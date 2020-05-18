@@ -2,7 +2,6 @@
 bref = "Solanum lycopersicum"
 date = 2020-05-18T15:01:08Z
 description = "Solanum lycopersicum"
-draft = true
 title = "Pomidor zwyczajny"
 toc = false
 weight = 20
